@@ -1,0 +1,82 @@
+body{
+	background: lightblue;
+}
+
+.a{
+	background: teal;
+	font-weight: bold;
+	font-size: 20px;
+	width: 1000px;
+	height: 30px;
+	text-align: center;
+	padding-top: 5px;
+	margin: 7px;
+	}
+table,tr,th,td{
+	border-collapse: collapse;
+	border:2px solid #000;
+}
+.tt{
+	width: 1000px;
+	height: 30px;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 5px;
+	margin: 7px;
+}
+.aa{
+	background:pink;
+	color:#000;
+}
+.ss{
+	background: skyblue;
+	color: #000;
+}
+.ff{
+	background: pink;
+	color: #000;
+}
+.gg{
+	background: skyblue;
+	color: #000;
+}
+.hh{
+	background: pink;
+	color: #000;
+}
+.jj{
+	background: skyblue;
+	color: #000;
+}
+.kk{
+	background: pink;
+	color: #000;
+}
+.tnx{
+	background: #fff;
+	font-weight: bold;
+	font-size: 20px;
+	width: 1000px;
+	height: 25px;
+	margin: 9px;
+	color: #000;
+}
+.tnx2{
+	background: teal;
+	font-size: 30px;
+	width: 1000px;
+	height: 50px;
+	margin: 9px;
+	color: #000;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+}
+.p{
+	font-size: 25px;
+	margin: 9px;
+}
+.credit{
+	font-size: 20px;
+	font-family:'Pacifico', cursive;
+	padding-left: 900px;
+}

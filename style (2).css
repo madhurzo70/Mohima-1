@@ -1,0 +1,80 @@
+body{
+	background:#fff;
+	height: 200px;
+
+}
+.M{
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	background: blue;
+	font-weight: bold;
+
+}
+.for{
+	font-weight: bold;
+	color:#000;
+	padding-top: 0px;
+}
+table,tr,td{
+	border-collapse: collapse;
+	border:1px solid #000;
+	margin: 50px 0;
+	font-size: 25px;
+	font-weight: bold;
+}
+.M1{
+	background-color: skyblue;
+	height: 50px;
+}
+.c2{
+	background: lightblue;
+	height: 40px;
+}
+.c3{
+	background: lightblue;
+	height: 40px;
+}
+.c4{
+	background: lightblue;
+	height: 40px;
+}
+.c5{
+	background: deeppink;
+	width: 100px;
+	height: 20px;
+	padding: 3px;
+	font-weight: bold;
+	border:2px solid #000;
+	transition: all 0.01s linear;
+}
+
+.c5:hover{
+	background: lightpink;
+	width: 100px;
+	height: 20px;
+	padding: 3px;
+	font-weight: bold;
+	border:2px solid #000;
+}
+.c6{
+	background:pink;
+	font-size: 20px;
+	height: 200;
+	width: 1000px;
+}
+.c7{
+background: pink;
+	padding: 10px;
+	margin: 100px auto;
+	font-size: 20px;
+	height: 50px;
+	width: 100px;
+	color: #000
+	font-weight:bold;
+	cursor: pointer;
+	text-align: center;
+}
+.b{
+	font-size: 20px;
+}

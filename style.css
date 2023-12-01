@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.M1{
+	background: url(ppppppp.jpeg);
+	width: 1000px;
+	height: 500px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.M1{
+	//background: rgba(15,13,16,0.6);
+}
+.M2{
+	text-align: center;
+	color: #000;
+	padding-top: 100px;
+	padding-bottom: 0px;
+	font-family:'Emilys Candy',serif;
+	font-size:20px;
+	font-weight: bold;
+}
+.M2 .button{
+	text-align: center;
+	margin: 0.1px 450px;
+}
+.M2 .button{
+	padding: 5px 5px;
+	font-size: 20px;
+	border:none;
+	background: skyblue;
+	font-color: #000;
+	border:2px solid #000;
+	cursor: pointer;
+	width: 100px;
+	transition: 0.5s all ease;
+	border-radius: 5px;
+}
+.M2 h1{
+	background: skyblue;
+	width: 500px;
+	height: 100px;
+	margin: 100px auto;
+}
+
+.M2 .button:hover{
+	padding: 5px 5px;
+	font-size: 20px;
+	border:none;
+	background: teal;
+	color: #fff;
+	border:2px solid #000;
+	cursor: pointer;
+	width: 100px;
+	border:none;
+}
+.buttton{
+	padding: 200px 0;
+}
+.button{
+	text-decoration: none;
+}

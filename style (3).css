@@ -1,0 +1,121 @@
+body{
+	background: #fff;
+}
+.R{
+	background: blue;
+	width: 950px;
+	height: 30px;
+	font-size: 20px;
+	color: #fff;
+	margin: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+table,tr,th,td{
+	border-collapse: collapse;
+	border:2px solid #000;
+}
+.RR{
+	margin: 20px;
+	width: 950px;
+
+}
+.head-color{
+	background: skyblue;
+}
+.tr-color1{
+	background:lightblue ;
+}
+.tuition{
+	background: skyblue;
+	width: 950px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.margin{
+	margin: 20px;
+	width: 950px;
+	height: 30px;
+	padding-top: 10px;
+}
+.tk{
+	background: deeppink;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.tk2{background: pink;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.tk3{
+	background: pink;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.tk4{
+	background: pink;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.tk5{
+	background: pink;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.tk6{
+	background: pink;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+	margin: 20px;
+	font-size: 20px;
+}
+.newtc{
+	margin: 20px;
+	width: 950px;
+	background: lightblue;
+	}
+.sky{
+	background: skyblue;
+}
+.ww{
+	font-weight: bold;
+	width: 950px;
+	height: 20px;
+	margin: 20px;
+	font-size: 20px;
+}
+.B{
+	font-size: 25px;
+	margin: 20px;
+}
+.uu{
+	background: deeppink;
+	width: 950px;
+	height: 20px;
+	margin: 20px;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 0px;
+}
